@@ -1,0 +1,17 @@
+
+
+/* HEX */
+
+--Color-1: #F2F2F2;
+--Color-2: #D97373;
+--Color-3: #3D3C40;
+
+
+/* RGB */
+
+--Color-1: rgb(242, 242, 242);
+--Color-2: rgb(217, 115, 115);
+--Color-3: rgb(61, 60, 64);
+
+/* Footer */
+conic-gradient(from 177deg at 0% 100%, rgb(84, 71, 63) 0%, rgb(225, 218, 210) 100%)
